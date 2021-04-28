@@ -8,6 +8,7 @@ Purpose: This is my final project for COS 470. This repository contains multiple
 
 Created on: 4/28/2021
 
+
 LSTM:
 I have created a simple LSTM model on TensorFlow for predicting future stock prices. 
 This model takes in 4 inputs, 'EMA10', 'EMA50', 'EMA200', and the 'Close' price.
