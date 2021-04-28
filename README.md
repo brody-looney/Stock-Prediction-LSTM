@@ -1,8 +1,11 @@
 # Stock-Prediction-LSTM
 
 Author: Brody Looney
+
 Repository: Stock-Prediction-LSTM
+
 Purpose: This is my final project for COS 470. This repository contains multiple .csv files and .ipynb files.
+
 Created on: 4/28/2021
 
 LSTM:
